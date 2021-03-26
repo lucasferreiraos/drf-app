@@ -2,4 +2,4 @@ from django.apps import AppConfig
 
 
 class BlogApiConfig(AppConfig):
-    name = 'blog_api'
+    name = "blog_api"
